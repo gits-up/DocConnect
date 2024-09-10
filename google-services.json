@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "33658274923",
+    "firebase_url": "https://docapp-7e827-default-rtdb.firebaseio.com",
+    "project_id": "docapp-7e827",
+    "storage_bucket": "docapp-7e827.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33658274923:android:73a739157ea37033971d2e",
+        "android_client_info": {
+          "package_name": "com.anonymous.DocConnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChWOQ8TQ2TzSd3bvwP9FF6VuHYpgepLJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
